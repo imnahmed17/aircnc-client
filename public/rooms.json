@@ -1,0 +1,136 @@
+[
+    {
+        "location": "Sidemen, Bali",
+        "image": "https://a0.muscache.com/im/pictures/4f70b681-a792-4530-8c52-f2a8d262942d.jpg",
+        "dateRange": "Jan 9, 2024 - Jan 14, 2024",
+        "price": 456,
+        "category": "Beach"
+    },
+    {
+        "location": "Abiansemal, Bali",
+        "image": "https://a0.muscache.com/im/pictures/e25a9b25-fa98-4160-bfd1-039287bf38b6.jpg",
+        "dateRange": "Jan 9, 2024 - Jan 14, 2024",
+        "price": 513,
+        "category": "Windmills"
+    },
+    {
+        "location": "Kecamatan Ubud, Bali",
+        "image": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-46761225/original/11058c0d-fac8-4035-8f16-8b3abe7441cd.jpeg",
+        "dateRange": "Jan 9, 2024 - Jan 14, 2024",
+        "price": 456,
+        "category": "Modern"
+    },
+    {
+        "location": "Koh samui, Thailand",
+        "image": "https://a0.muscache.com/im/pictures/miso/Hosting-820950793239599563/original/d5c1f686-f06a-4b65-9f55-32e19dc0b23f.jpeg",
+        "dateRange": "Jan 9, 2024 - Jan 14, 2024",
+        "price": 513,
+        "category": "Countryside"
+    },
+
+    {
+        "location": "Surat Thani, Thailand",
+        "image": "https://a0.muscache.com/im/pictures/miso/Hosting-820954888871612167/original/f37e01a9-cb1a-446d-be7e-c1d62d1f1c23.jpeg",
+        "dateRange": "Jan 9, 2024 - Jan 14, 2024",
+        "price": 456,
+        "category": "Windmills"
+    },
+    {
+        "location": "Khao Lak, Thailand",
+        "image": "https://a0.muscache.com/im/pictures/miso/Hosting-826025597172937112/original/d6bbe2ca-9337-4a7e-a5d3-ca8fe72821db.jpeg?im_w=1200",
+        "dateRange": "Jan 9, 2024 - Jan 14, 2024",
+        "price": 345,
+        "category": "Windmills"
+    },
+    {
+        "location": "Kecamatan Selemadeg, Bali",
+        "image": "https://a0.muscache.com/im/pictures/miso/Hosting-807995199727408777/original/3ba641e8-f9be-41cb-b834-aba9695726fa.jpeg",
+        "dateRange": "Jan 9, 2024 - Jan 14, 2024",
+        "price": 513,
+        "category": "Beach"
+    },
+    {
+        "location": "Khao Lak, Thailand",
+        "image": "https://a0.muscache.com/im/pictures/miso/Hosting-826732383054098647/original/457337ee-af64-462f-90d0-b9fa1ce98a73.jpeg",
+        "dateRange": "Jan 9, 2024 - Jan 14, 2024",
+        "price": 213,
+        "category": "Windmills"
+    },
+    {
+        "location": "Khao Lak, Thailand",
+        "image": "https://a0.muscache.com/im/pictures/miso/Hosting-826726918494647682/original/d1586407-7873-4c15-91e2-61ab713d2aca.jpeg",
+        "dateRange": "Jan 9, 2024 - Jan 14, 2024",
+        "price": 213,
+        "category": "Windmills"
+    },
+    {
+        "location": "Kecamatan Ubud, Bali",
+        "image": "https://a0.muscache.com/im/pictures/miso/Hosting-812919482265584093/original/c60bc2f2-7d16-4f7d-acf2-44c2f855fb81.jpeg",
+        "dateRange": "Jan 9, 2024 - Jan 14, 2024",
+        "price": 213,
+        "category": "Pools"
+    },
+    {
+        "location": "Malé, Maldives",
+        "image": "https://a0.muscache.com/im/pictures/miso/Hosting-852899544635683289/original/c627f47e-8ca9-4471-90d4-1fd987dd2362.jpeg",
+        "dateRange": "Jan 9, 2024 - Jan 14, 2024",
+        "price": 456,
+        "category": "Islands"
+    },
+    {
+        "location": "Pulau Perhentian Besar, Malaysia",
+        "image": "https://a0.muscache.com/im/pictures/miso/Hosting-12310498/original/00a22840-edd7-4d50-8394-f8cef987a4e0.jpeg",
+        "dateRange": "Jan 9, 2024 - Jan 14, 2024",
+        "price": 355,
+        "category": "Islands"
+    },
+    {
+        "location": "East Siantan, Indonesia",
+        "image": "https://a0.muscache.com/im/pictures/miso/Hosting-869929729832529564/original/6dc324a9-0ec9-4dba-a4fb-2c0d9840f322.jpeg",
+        "dateRange": "Jan 9, 2024 - Jan 14, 2024",
+        "price": 114,
+        "category": "Islands"
+    },
+    {
+        "location": "Ōmachi-shi, Japan",
+        "image": "https://a0.muscache.com/im/pictures/15389d46-d8ee-40ca-a388-4d8c932aa2f8.jpg",
+        "dateRange": "Jan 9, 2024 - Jan 14, 2024",
+        "price": 57,
+        "category": "Skiing"
+    },
+    {
+        "location": "Göreme, Turkey",
+        "image": "https://a0.muscache.com/im/pictures/dd15ca91-4e9f-49cd-82da-a1d33d04f358.jpg",
+        "dateRange": "Jan 9, 2024 - Jan 14, 2024",
+        "price": 302,
+        "category": "Caves"
+    },
+    {
+        "location": "Rom, Germany",
+        "image": "https://a0.muscache.com/im/pictures/a3f024ec-33db-424f-81c0-111570cc6692.jpg",
+        "dateRange": "Jan 9, 2024 - Jan 14, 2024",
+        "price": 979,
+        "category": "Barns"
+    },
+    {
+        "location": "Utsjoki, Finland",
+        "image": "https://a0.muscache.com/im/pictures/8db6ed20-fc30-4f7e-ae90-3f860874158b.jpg",
+        "dateRange": "Jan 9, 2024 - Jan 14, 2024",
+        "price": 217,
+        "category": "Arctic"
+    },
+    {
+        "location": "Svartnes, Norway",
+        "image": "https://a0.muscache.com/im/pictures/miso/Hosting-868579205091920167/original/a3f36c81-c7a6-4b27-9f4c-98d80f7616aa.jpeg",
+        "dateRange": "Jan 9, 2024 - Jan 14, 2024",
+        "price": 247,
+        "category": "Arctic"
+    },
+    {
+        "location": "Pelkosenniemi, Finland",
+        "image": "https://a0.muscache.com/im/pictures/72e3dfea-2b90-4afe-a1bd-1be37e77539a.jpg",
+        "dateRange": "Jan 9, 2024 - Jan 14, 2024",
+        "price": 187,
+        "category": "Arctic"
+    }
+]
